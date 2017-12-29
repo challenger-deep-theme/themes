@@ -1,0 +1,6 @@
+[submodule "vim"]
+	path = vim
+	url = https://github.com/challenger-deep-theme/vim
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/challenger-deep-theme/emacs
