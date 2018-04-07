@@ -4,3 +4,11 @@
 [submodule "emacs"]
 	path = emacs
 	url = https://github.com/challenger-deep-theme/emacs
+[submodule "iterm"]
+	path = iterm
+	url = https://github.com/challenger-deep-theme/iterm
+	branch = master
+[submodule "xresources"]
+	path = xresources
+	url = https://github.com/challenger-deep-theme/xresources
+	branch = master
