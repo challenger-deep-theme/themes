@@ -12,3 +12,9 @@
 	path = xresources
 	url = https://github.com/challenger-deep-theme/xresources
 	branch = master
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/challenger-deep-theme/tmux
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/challenger-deep-theme/alacritty
