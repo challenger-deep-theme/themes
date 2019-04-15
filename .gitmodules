@@ -18,3 +18,6 @@
 [submodule "alacritty"]
 	path = alacritty
 	url = https://github.com/challenger-deep-theme/alacritty
+[submodule "kitty"]
+	path = kitty
+	url = https://github.com/challenger-deep-theme/kitty
