@@ -1,3 +1,2 @@
-![Challenger Deep](https://s17.postimg.org/8b54c0ia7/challenger-deep.png)
-
-# Challenger Deep Themes
+![Challenger Deep](https://challenger-deep-theme.github.io/images/logo.png)
+## [Challenger Deep Themes](https://challenger-deep-theme.github.io/)
