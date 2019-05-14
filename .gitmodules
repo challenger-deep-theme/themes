@@ -21,3 +21,6 @@
 [submodule "kitty"]
 	path = kitty
 	url = https://github.com/challenger-deep-theme/kitty
+[submodule "gnome-terminal"]
+	path = gnome-terminal
+	url = git@github.com:challenger-deep-theme/gnome-terminal.git
