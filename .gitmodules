@@ -27,3 +27,6 @@
 [submodule "blink"]
 	path = blink
 	url = git@github.com:challenger-deep-theme/blink.git
+[submodule "Konsole"]
+	path = Konsole
+	url = git@github.com:challenger-deep-theme/Konsole.git
